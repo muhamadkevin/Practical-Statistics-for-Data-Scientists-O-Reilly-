@@ -1,0 +1,6 @@
+*.pdf
+.ipynb_checkpoints/
+__pycache__/
+notebooks/05_*.ipynb
+notebooks/06_*.ipynb
+notebooks/07_*.ipynb
